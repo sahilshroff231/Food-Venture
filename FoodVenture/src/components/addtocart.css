@@ -1,0 +1,9 @@
+.mainbox:hover{
+     box-shadow:5px 5px 5px rgb(177, 176, 176);
+}
+.main{
+     background-image: url(../src/IMAGES/bg1.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     backdrop-filter: blur(10px);
+ }

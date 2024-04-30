@@ -1,0 +1,342 @@
+{
+  "user": [
+    {
+      "id": "sahil@123",
+      "email": "sahilsarraf991@gmail.com",
+      "confpassword": "sahil@854",
+      "password": "sahil@854"
+    },
+    {
+      "id": "sahil@123",
+      "email": "sahilsarraf881@gmail.com",
+      "confpassword": "sahil@854",
+      "password": "sahil@854"
+    },
+    {
+      "id": "khushi23",
+      "email": "khushi234@gmail.com",
+      "confpassword": "khushi@854",
+      "password": "khushi@854"
+    },
+    {
+      "id": "ranesh",
+      "email": "dfpigd@gmail.com",
+      "confpassword": "ssss",
+      "password": "ssss"
+    },
+    {
+      "id": "rani ",
+      "email": "rani@gmail.com",
+      "confpassword": "rani11",
+      "password": "rani11"
+    }
+  ],
+  "admin": [
+    {
+      "id": "ankit23",
+      "email": "ankit@gmail.com",
+      "password": "ankit1234"
+    }
+  ],
+  "restaurents": [
+    {
+      "rid": "1",
+      "resname": "Pind Baluchi",
+      "image": "https://wallpapercave.com/wp/wp1874173.jpg",
+      "rating": "4.2",
+      "discription": "best hotel with best "
+    },
+    {
+      "rid": "2",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.u-lR7FC6PyEpw2xzQoq7kgHaEo&pid=Api&P=0&h=180",
+      "resname": "Cafe 13",
+      "discription": "best hotel with best facilities",
+      "rating": "4.2"
+    },
+    {
+      "rid": "3",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.kWQvuEqmYNrBqgIWAUG4VAHaE7&pid=Api&P=0&h=180",
+      "resname": "Nirvana",
+      "discription": "best hotel with best facilities",
+      "rating": "4.2"
+    },
+    {
+      "rid": "4",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.RTB-P0HLXtZ0LviFJ1E6zgHaFj&pid=Api&P=0&h=180",
+      "resname": "Fine Dine",
+      "discription": "best hotel with best facilities",
+      "rating": "4.2"
+    },
+    {
+      "rid": "5",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.6yTB-t5mGaxmLc28VEbBHwHaFg&pid=Api&P=0&h=180",
+      "resname": "SkyLine",
+      "discription": "best hotel with best facilities",
+      "rating": "4.2"
+    },
+    {
+      "rid": "6",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.BeQP3V7Q1arny7zWPjV74AHaEo&pid=Api&P=0&h=180",
+      "resname": "MidNight Cafe",
+      "discription": "best hotel with best facilities",
+      "rating": "4.2"
+    },
+    {
+      "rid": "7",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.hhZ3pcJqOE6L9wOpmLrbsgHaF7&pid=Api&P=0&h=180",
+      "resname": "Casa Pikola",
+      "discription": "best hotel with best facilities",
+      "rating": "4.2"
+    }
+   
+  ],
+  "nonvcatagory": [
+    {
+      "cid": "1",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.qKhDLe0Z5JqoD-Uam9nMnwHaEo&pid=Api&P=0&h=180",
+      "catname": "Non-Veg Items",
+      "discription": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ],
+  "vegcatagory": [
+    {
+      "cid": "2",
+      "image": "https://foodiewish.com/wp-content/uploads/2020/03/Vegetarian-dishes-foodiewish.jpg",
+      "catname": "Veg Items",
+      "discription": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ],
+  "chinesecatagory": [
+    {
+      "cid": "3",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.UGNppgzXwqd2YfkNsOUTEwHaE6&pid=Api&P=0&h=180",
+      "catname": "Chinese Items",
+      "discription": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ],
+  "dessertcatagory": [
+    {
+      "cid": "5",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.kGB2X_Pp-YFu7ndamCivHgHaEo&pid=Api&P=0&h=180",
+      "catname": "Desserts Items",
+      "discription": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ],
+  "drinkscatagory": [
+    {
+      "cid": "4",
+      "image": "https://www.isabeleats.com/wp-content/uploads/2018/02/classic-mojito-recipe-small-1-650x973.jpg",
+      "catname": "Drinks Items",
+      "discription": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ],
+  "bekariescatagory": [
+    {
+      "cid": "6",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.AtqZX7qpVnmwbLZcasy86wHaEK&pid=Api&P=0&h=180",
+      "catname": "Bekaries Items",
+      "discription": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ],
+  "product": [
+    {
+      "dishname": "chicken-biryani",
+      "image": "https://www.getarecipes.com/wp-content/uploads/2020/05/Chicken-Biryani-Recipe.png",
+      "price": "300 Rs",
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "id": "1",
+      "rid": "1"
+    },
+    {
+      "id": "2",
+      "dishname": "Lamb Curry Recipe",
+      "image": "https://menovating.com/wp-content/uploads/2021/06/Lamb-Curry.png",
+      "price": "200 Rs",
+      "description": "have a delicious food to make your mood better",
+      "amount": 1,
+      "rid": "1"
+    },
+    {
+      "id": "3",
+      "dishname": "Mutton Curry",
+      "image": "https://www.hyderabadiruchulu.com/wp-content/uploads/2017/10/IMG_4581.jpg",
+      "price": "350 Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "1"
+    },
+    {
+      "id": "4",
+      "dishname": "Mutton Biryani",
+      "image": "https://healthyliving.natureloc.com/wp-content/uploads/2018/08/lucknowi-mutton-biryani-recipe.jpg",
+      "price": "420 Rs",
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "1"
+    },
+    {
+      "id": "5",
+      "dishname": "Mutton-Fry",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/chicken-lollipop-recipe.jpg",
+      "price": "120Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "1"
+    },
+    {
+      "id": "6",
+      "dishname": "bokachoda",
+      "image": "https://www.getarecipes.com/wp-content/uploads/2020/05/Chicken-Biryani-Recipe.png",
+      "price": "150Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "1"
+    },
+    {
+      "dishname": "chicken-biryani",
+      "image": "https://www.getarecipes.com/wp-content/uploads/2020/05/Chicken-Biryani-Recipe.png",
+      "price": "300 Rs",
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "id": "7",
+      "rid": "2"
+    },
+    {
+      "id": "8",
+      "dishname": "Lamb Curry Recipe",
+      "image": "https://menovating.com/wp-content/uploads/2021/06/Lamb-Curry.png",
+      "price": "200 Rs",
+      "description": "have a delicious food to make your mood better",
+      "amount": 1,
+      "rid": "2"
+    },
+    {
+      "id": "9",
+      "dishname": "Mutton Curry",
+      "image": "https://www.hyderabadiruchulu.com/wp-content/uploads/2017/10/IMG_4581.jpg",
+      "price": "00 Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "2"
+    },
+    {
+      "id": "10",
+      "dishname": "Mutton Biryani",
+      "image": "https://healthyliving.natureloc.com/wp-content/uploads/2018/08/lucknowi-mutton-biryani-recipe.jpg",
+      "price": "00 Rs",
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "2"
+    },
+    {
+      "id": "11",
+      "dishname": "Mutton-Fry",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/chicken-lollipop-recipe.jpg",
+      "price": "120Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "2"
+    },
+    {
+      "id": "12",
+      "dishname": "bokachoda",
+      "image": "https://www.getarecipes.com/wp-content/uploads/2020/05/Chicken-Biryani-Recipe.png",
+      "price": "150Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "rid": "2"
+    }
+  ],
+  "vegproduct": [
+    {
+      "dishname": "chana-Mashala",
+      "image": "https://www.thespruceeats.com/thmb/oNuTICiqFjV6gocF9gRPvcvj8VI=/450x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SES-chana-masala-recipe-7153398-Hero-01-36767060b58f405c8fe9d11211912bcf.jpg",
+      "price": "300 Rs",
+      "amount": 1,
+      "description": "have a delicious food to make your mood better",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "dishname": "Savory Dosas Recipe",
+      "image": "https://www.thespruceeats.com/thmb/iQFmTUpOO_8R5xhF0M489yQrGc4=/450x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-dosa-1957716-hero-01-e0f8464649aa4be4b0be56f08698f4a4.jpg",
+      "price": "200 Rs",
+      "description": "have a delicious food to make your mood better",
+      "amount": 1
+    },
+    {
+      "id": "3",
+      "dishname": "Muttor Paneer",
+      "image": "https://www.thespruceeats.com/thmb/zjSiHTryazuObAGOtBMqTidgSws=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mutter-paneer-peas-cottage-cheese-curry-1957971-hero-01-fe2c40de95ce41358589b3a7f01b2d97.jpg",
+      "price": "350 Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better"
+    },
+    {
+      "id": "4",
+      "dishname": "OverBacked Naan",
+      "image": "https://www.thespruceeats.com/thmb/lwix9xsOg-myGNbgonH_B11_6pE=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/naan-leavened-indian-flatbread-1957348-final-08-116a2e523f6e4ee693b1a9655784d9b9.jpg",
+      "price": "420 Rs",
+      "amount": 1,
+      "description": "have a delicious food to make your mood better"
+    },
+    {
+      "id": "5",
+      "dishname": "Baked Samosas",
+      "image": "https://www.thespruceeats.com/thmb/eqSRM7fMIhN0C1OPHDbtpMCqjts=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quick-and-easy-baked-vegetarian-samosas-3377863-hero-01-2847c412661144d686bfa4d123232109.jpg",
+      "price": "120Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better"
+    },
+    {
+      "id": "6",
+      "dishname": "Idali",
+      "image": "https://www.thespruceeats.com/thmb/qaeY4mbBfEQcAZup6mSui2iPVfs=/300x225/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/idli-56a510b63df78cf772862c34.jpg",
+      "price": "150Rs",
+      "stock": 10,
+      "amount": 1,
+      "description": "have a delicious food to make your mood better"
+    }
+  ],
+  "cart": [],
+  "order": [
+    {
+      "id": "2",
+      "userId": null,
+      "dishname": "Savory Dosas Recipe",
+      "image": "https://www.thespruceeats.com/thmb/iQFmTUpOO_8R5xhF0M489yQrGc4=/450x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-dosa-1957716-hero-01-e0f8464649aa4be4b0be56f08698f4a4.jpg",
+      "price": "200 Rs",
+      "description": "have a delicious food to make your mood better",
+      "amount": 1,
+      "address": "sdsdcd"
+    },
+    {
+      "id": "2",
+      "userId": "rani ",
+      "dishname": "Savory Dosas Recipe",
+      "image": "https://www.thespruceeats.com/thmb/iQFmTUpOO_8R5xhF0M489yQrGc4=/450x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-dosa-1957716-hero-01-e0f8464649aa4be4b0be56f08698f4a4.jpg",
+      "price": "200 Rs",
+      "description": "have a delicious food to make your mood better",
+      "amount": 1
+    },
+    {
+      "id": "9",
+      "userId": null,
+      "dishname": "Mutton Curry",
+      "image": "https://www.hyderabadiruchulu.com/wp-content/uploads/2017/10/IMG_4581.jpg",
+      "price": "00 Rs",
+      "description": "have a delicious food to make your mood better",
+      "amount": 4,
+      "address": "sdsdcd"
+    }
+  ]
+}

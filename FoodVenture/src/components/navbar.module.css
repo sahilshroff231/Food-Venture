@@ -1,0 +1,9 @@
+.mar{
+    margin-left: 57rem;
+}
+
+@media screen and (max-width:"1200px"){
+    .mar{
+        margin-left: 0;
+    }
+}

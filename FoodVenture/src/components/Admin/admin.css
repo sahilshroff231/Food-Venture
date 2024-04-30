@@ -1,0 +1,19 @@
+.adminbg{
+    background-image: url(../src/IMAGES/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    opacity: 100%;
+    backdrop-filter: blur(5px);
+  
+    
+   
+ }
+ .formclass{
+    
+    color: aliceblue;
+    font-size: 20px;
+    height: 80%;
+    font-weight: 500;
+ }
